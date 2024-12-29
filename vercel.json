@@ -2,7 +2,7 @@
   "functions": {
     "api/mysql.js": {
       "runtime": "nodejs18.x",
-      "regions": ["bom1"] // Mumbai, India
+      "regions": ["bom1"] 
     }
   }
 }
